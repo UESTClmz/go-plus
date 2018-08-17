@@ -86,7 +86,7 @@
     "fuzzaldrin-plus": "^0.6.0",
     "lodash": "^4.17.5",
     "resize-observer-polyfill": "^1.5.0",
-    "semver": "^5.5.0",
+    "semver": "5.5.0",
     "temp": "^0.8.3",
     "yargs-parser": "^8.1.0"
   },
